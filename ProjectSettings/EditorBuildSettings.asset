@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 61e810485cc250a49bf669c67112a4c6
   - enabled: 1
-    path: Assets/Scenes/Dima.unity
+    path: Assets/Scenes/Scene_1.unity
     guid: 3abdc1258f1ea2c4ebbd2d8c2b9ebbcd
   m_configObjects: {}
